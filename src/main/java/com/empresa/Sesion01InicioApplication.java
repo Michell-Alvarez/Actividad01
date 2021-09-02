@@ -8,6 +8,8 @@ public class Sesion01InicioApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Sesion01InicioApplication.class, args);
+		
+		System.out.println("Termino con éxito...");
 	}
 
 }
